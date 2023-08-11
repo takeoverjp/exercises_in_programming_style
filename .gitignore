@@ -1,2 +1,3 @@
 word_freqs
 *.pyc
+tf.db
